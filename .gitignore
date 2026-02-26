@@ -185,3 +185,5 @@ keys.env
 data/
 repos/
 results/
+
+.claude
